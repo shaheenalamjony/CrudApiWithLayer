@@ -1,0 +1,14 @@
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\bin\Debug\BLL.dll
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\bin\Debug\BLL.pdb
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\bin\Debug\AutoMapper.dll
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\bin\Debug\DAL.dll
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\bin\Debug\EntityFramework.dll
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\bin\Debug\DAL.pdb
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\bin\Debug\DAL.dll.config
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\bin\Debug\AutoMapper.xml
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\bin\Debug\EntityFramework.xml
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\obj\Debug\BLL.dll
+D:\Education\visula stido 2022\api\ThreeCrudApi\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,10 @@
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\bin\Debug\DAL.dll.config
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\bin\Debug\DAL.dll
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\bin\Debug\DAL.pdb
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\bin\Debug\EntityFramework.dll
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\bin\Debug\EntityFramework.xml
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\obj\Debug\DAL.dll
+D:\Education\visula stido 2022\api\ThreeCrudApi\DAL\obj\Debug\DAL.pdb
