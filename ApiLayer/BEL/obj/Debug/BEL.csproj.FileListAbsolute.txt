@@ -1,0 +1,6 @@
+D:\Education\visula stido 2022\api\ApiLayer\BEL\bin\Debug\BEL.dll
+D:\Education\visula stido 2022\api\ApiLayer\BEL\bin\Debug\BEL.pdb
+D:\Education\visula stido 2022\api\ApiLayer\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+D:\Education\visula stido 2022\api\ApiLayer\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+D:\Education\visula stido 2022\api\ApiLayer\BEL\obj\Debug\BEL.dll
+D:\Education\visula stido 2022\api\ApiLayer\BEL\obj\Debug\BEL.pdb
